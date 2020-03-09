@@ -10,7 +10,9 @@ social activity in an urban space is distributed and new emergence of spatial re
 It creates a digital global urban pattern who’s DNA varies depending on each cities activity and
 information density clusters.
 
-Parasite is a plugin for Grasshopper developed with Dr. Roland Hudson. Parasite retrieves social
+Parasite is a plugin for Grasshopper written in C#. Parasite retrieves social
 data from Forsquare, it’s a tool that aims to swim into the digital behavior of cities around the globe.
 
 The maximum number of queries that can be done is 5,000 results per hour
+
+**Disclaimer**: The code was written a few years ago, and I am not sure if it will compile properly. Probably the Forsquare API has changed, I can update this repo id necessary.
